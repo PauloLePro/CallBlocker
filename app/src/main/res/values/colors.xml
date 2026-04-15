@@ -1,0 +1,5 @@
+<resources>
+    <color name="active_green">#1B8A3D</color>
+    <color name="inactive_red">#B3261E</color>
+    <color name="surface_tint">#2E5D4E</color>
+</resources>
